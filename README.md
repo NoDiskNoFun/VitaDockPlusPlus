@@ -16,6 +16,8 @@ Fits on 4GB SD cards
 Nintendo Switch RCM injection  
 Cool experimental features (see below)  
 
+Android Support through scrcpy + ADB
+
 # Tested Models
 | Model | Status | Details |
 | :-------------: | :-------------: | :-----: |
@@ -70,6 +72,8 @@ https://www.thingiverse.com/thing:3502645
 https://www.thingiverse.com/thing:4609317  
 https://www.tinkercad.com/things/b0GQwqVYNPP  
 
+# Android Support
+Enable USSB-Debugging on your smartphone and you are good to go
 
 # Performance Tips
 Overclocking and disabling Bluetooth on low powered Pis can also help. Good starting overclock values:  
