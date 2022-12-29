@@ -1,0 +1,4 @@
+[Service]
+ExecStart=/home/pi/auto-scrcpy.sh
+User=pi
+StandardOutput=tty1
