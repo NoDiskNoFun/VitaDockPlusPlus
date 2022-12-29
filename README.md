@@ -73,7 +73,7 @@ https://www.thingiverse.com/thing:4609317
 https://www.tinkercad.com/things/b0GQwqVYNPP  
 
 # Android Support
-Enable USSB-Debugging on your smartphone and you are good to go
+Enable USB-Debugging on your smartphone and you are good to go
 
 # Performance Tips
 Overclocking and disabling Bluetooth on low powered Pis can also help. Good starting overclock values:  
