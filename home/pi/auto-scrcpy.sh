@@ -10,5 +10,5 @@ do
         export XAUTHORITY=/home/pi/.Xauthority
 
 	
-	scrcpy --always-on-top -f --max-size=1280
+	scrcpy --always-on-top -f --max-size=1280 -w
 done
